@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Salut, je suis [75xel](https://github.com/75xel)
 
-<!--
-**75xel/75xel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+🌱 Je suis un débutant passionné par le monde de la programmation.  
+💻 Actuellement en phase d'apprentissage, je découvre les bases du développement logiciel.  
+📚 Toujours avide de connaissances et prêt à relever de nouveaux défis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Je suis actuellement en train d'apprendre
+
+- Les fondamentaux du développement web (HTML, CSS, JavaScript).
+- La logique de programmation à travers des langages comme Python.
+- Les outils de versionnement tels que Git et GitHub.
